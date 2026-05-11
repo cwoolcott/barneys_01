@@ -1,0 +1,4 @@
+agno
+openai
+requests
+python-dotenv
